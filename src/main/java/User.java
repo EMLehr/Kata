@@ -16,7 +16,7 @@ public class User
 */
 
         ConverterTwo usertwo = new ConverterTwo();
-        String output=usertwo.use(999);
+        String output=usertwo.use(99);
         System.out.println(output);
 
 
